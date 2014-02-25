@@ -9,7 +9,7 @@ Description:
 **********************************************
 
 
-CONTENTS of .zip package	
+CONTENTS of Package	
 -------------------------	
 
 stm32f4_PROJECT directory:	
@@ -38,9 +38,6 @@ Documented_code directory:
 		-Contains two well commented peripheral codes
 		-STM32 ST-Link Utility 
 			-Directions for use are in the UserManual.pdf
-Maintainer.pdf
-QA_Testing.pdf
-UserManual.pdf
 **********************************************
 
 
